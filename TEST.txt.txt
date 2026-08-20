@@ -1,1 +1,1 @@
-TEST.txt
+Automatic GitHub upload test
